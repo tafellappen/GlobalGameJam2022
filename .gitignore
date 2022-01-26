@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+duality_nigensei/Intermediate/
+
+duality_nigensei/Saved/
